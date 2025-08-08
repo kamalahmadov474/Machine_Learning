@@ -50,7 +50,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Contact
 
 If you have any questions, suggestions, or feedback, feel free to open an issue or contact us at kamalakhmedof@gmail.com
-
----
-
-Feel free to customize this template to better suit your specific needs and preferences.
